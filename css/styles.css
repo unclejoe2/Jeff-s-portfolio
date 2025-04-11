@@ -21,6 +21,10 @@ h2{
     font-size: 2vw;
 }
 
+p{
+    font-size:0.75vw;
+}
+
 section {
     padding: 80px 20px; 
     margin-bottom: 50px; 
